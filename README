@@ -1,0 +1,16 @@
+Web Crawler
+Elliot Etches
+
+A _very_ basic web crawler.
+
+Takes two URLs and prints a link between them if such a link exists. 
+
+-Compilation-
+-> "make" should build the program
+-> "make test1" will execute the first test
+-> "make test2" will execute the second test
+-> "make test3" will execute the third test
+-> Tests two and three may take a minute or two to run.
+
+-Usage-
+-> "./main <startURL> <endURL>"
